@@ -1,12 +1,10 @@
-## Hi there 👋
+# Restorio Fullstack
 
-<!--
+Repozytorium głównej aplikacji Restorio, obejmujące frontend, backend oraz ich bieżącą integrację.
 
-**Here are some ideas to get you started:**
+## Przydatne linki
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Repozytorium](https://github.com/restorio-labs/restorio-fullstack)
+- [GitHub Actions](https://github.com/restorio-labs/restorio-fullstack/actions)
+- [Issues](https://github.com/restorio-labs/restorio-fullstack/issues)
+- [Pull requesty](https://github.com/restorio-labs/restorio-fullstack/pulls)
