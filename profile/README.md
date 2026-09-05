@@ -1,10 +1,10 @@
 # Restorio Fullstack
 
-Repozytorium głównej aplikacji Restorio, obejmujące frontend, backend oraz ich bieżącą integrację.
+The main Restorio application repository, covering the frontend, backend, and their ongoing integration.
 
-## Przydatne linki
+## Useful links
 
-- [Repozytorium](https://github.com/restorio-labs/restorio-fullstack)
+- [Repository](https://github.com/restorio-labs/restorio-fullstack)
 - [GitHub Actions](https://github.com/restorio-labs/restorio-fullstack/actions)
 - [Issues](https://github.com/restorio-labs/restorio-fullstack/issues)
-- [Pull requesty](https://github.com/restorio-labs/restorio-fullstack/pulls)
+- [Pull requests](https://github.com/restorio-labs/restorio-fullstack/pulls)
